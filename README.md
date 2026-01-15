@@ -4,9 +4,9 @@
 
 ## 4-Week AI Fluency Program (5 Levels of AI Enlightenment)
 
-**Format:** 5 sessions over 4 weeks (Class 0–4) • 75–90 minutes each
-**Audience:** Non-technical or mixed teams who want practical AI skills fast
-**Approach:** "Learn to drive, not build the car" — hands-on, safety-first, outcome-driven
+**Format:** 5 sessions over 4 weeks (Class 0–4) • 75–90 minutes each<br>
+**Audience:** Non-technical or mixed teams who want practical AI skills fast<br>
+**Approach:** "Learn to drive, not build the car" — hands-on, safety-first, outcome-driven<br>
 **Promise:** In 4 weeks, participants go from "What is this?" to "I built something."
 
 ---
