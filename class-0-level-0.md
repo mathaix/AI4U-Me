@@ -41,36 +41,13 @@
 
 **Present the Framework Visually:**
 
-**Level 0: Understanding**. *(This class)
-- Different levels of AI enlightenment. 
-- In this class we will go through examples of Using AI for learning, research, planning, brainstorming and self introspection.
-- Outcome: You know what AI can (and cannot) do for you today and can hold a basic, safe AI conversation.
-
-**Level 1: Smart Usage** *(Class 1 - Next Week)*
-- Little bit of Theory: Leverage understanding of context and context window to get better results. 
-- Prompt Examples.
-- Live/interacting demo of advanced prompting.
-- Outcome: You can write clear prompts with context, iterate, and improve answers reliably.
-
-**Level 2: AI Ecosystem** *(Class 2 - Week 3)*
-- What are the different consumer level AI tools/models. What should I use, when should I use them. (Compare NotebookLLM, Copilot, ChatGPT, Gemini, Claude CLI)
-- Outcome: You can pick the right AI tool for a task and understand tradeoffs, limitations, and risks.
-- AI Risks: 
-   - understand how AI providers use your data
-   - understand risks of AI tools
-   - understanding AI limitations and bias.
-
-**Level 3: AI as a personal assistant** *(Class 3 - Week 4)*
-- Examples of how people are using AI to automate their lives.
-- Introduction to MCP.
-- How to create your own automation.
-- Outcome: You can design and run simple AI-assisted workflows that save you time.
-
-**Level 4: Build Stuff** *(Class 4 - Week 5)*
-- Vibe coding
-- No coding experience needed
-- You describe, AI builds
-- Outcome: You can ship a small AI-built project (no-code or low-code) from your own description.
+| Level | Class | What You'll Learn | Outcome |
+|-------|-------|-------------------|---------|
+| **Level 0: Understanding** | *This class* | • Different levels of AI enlightenment<br>• Using AI for learning, research, planning, brainstorming and self-introspection | You know what AI can (and cannot) do for you today and can hold a basic, safe AI conversation |
+| **Level 1: Smart Usage** | *Class 1 - Next Week* | • Theory: Context and context window<br>• Prompt examples<br>• Live demo of advanced prompting | You can write clear prompts with context, iterate, and improve answers reliably |
+| **Level 2: AI Ecosystem** | *Class 2 - Week 3* | • Different consumer AI tools/models<br>• When to use what (NotebookLLM, Copilot, ChatGPT, Gemini, Claude CLI)<br>• AI Risks: data usage, tool risks, limitations and bias | You can pick the right AI tool for a task and understand tradeoffs, limitations, and risks |
+| **Level 3: AI as Personal Assistant** | *Class 3 - Week 4* | • Examples of AI automation in daily life<br>• Introduction to MCP<br>• Creating your own automation | You can design and run simple AI-assisted workflows that save you time |
+| **Level 4: Build Stuff** | *Class 4 - Week 5* | • "Vibe coding" - no coding experience needed<br>• You describe, AI builds | You can ship a small AI-built project (no-code or low-code) from your own description |
 
 **The Journey:**
 - "In 4 weeks, you'll go from 'What is this?' to 'I built something.'"
