@@ -11,6 +11,21 @@
 
 ---
 
+## Philosophy: "Learn to Drive, Not Build the Car"
+
+This curriculum focuses on **practical skills over theory**. You don't need to understand how AI works internally to use it effectively—just like you don't need to understand engine mechanics to drive a car.
+
+### Core Principles
+
+1. **AI is for everyone** — Engineers, doctors, plumbers, students, parents, teachers, retirees
+2. **Safety first** — Clear guardrails on what never to share
+3. **Hands-on learning** — Work on real tasks, not hypotheticals
+4. **Progressive mastery** — Each level builds on the previous
+5. **Tool-agnostic** — Learn principles that work across all AI platforms
+6. **Build to ship** — End with something real you or others can use
+
+---
+
 ## Program Outcomes
 
 By the end of this program, participants will be able to:
@@ -92,21 +107,6 @@ By the end of this program, participants will be able to:
 - Present your creation
 
 **Outcome:** Ships a small AI-built project from their own description
-
----
-
-## Philosophy: "Learn to Drive, Not Build the Car"
-
-This curriculum focuses on **practical skills over theory**. You don't need to understand how AI works internally to use it effectively—just like you don't need to understand engine mechanics to drive a car.
-
-### Core Principles
-
-1. **AI is for everyone** — Engineers, doctors, plumbers, students, parents, teachers, retirees
-2. **Safety first** — Clear guardrails on what never to share
-3. **Hands-on learning** — Work on real tasks, not hypotheticals
-4. **Progressive mastery** — Each level builds on the previous
-5. **Tool-agnostic** — Learn principles that work across all AI platforms
-6. **Build to ship** — End with something real you or others can use
 
 ---
 
