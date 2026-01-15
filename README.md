@@ -43,27 +43,24 @@ By the end of this program, participants will be able to:
 ### 📘 [Class 0: Level 0 — Understanding](class-0-level-0.md)
 **Week 1 • The Foundation**
 
+- Who AI is for?
+- Undertanding the transformation shift and how that affects you
 - Different levels of AI enlightenment
 - Using AI for learning, research, planning, brainstorming and self-introspection
-- Who AI is for (poll + belief: AI is for everyone)
-- What AI can/can't do today
-- Safety basics (what never to share)
-- Free vs paid side-by-side comparison
-
+ 
 **Outcome:** You know what AI can (and cannot) do for you today and can hold a basic, safe AI conversation
 
 ---
 
-### 📗 [Class 1: Level 1 — Smart Usage](class-1-level-1.md)
+### 📗 [Class 1: Level 1 — Smart Usage]
 **Week 2 • Mastering Prompts**
+
+*Coming soon*
 
 - Theory: Context and context window
 - Prompt examples
-- Live demo of advanced prompting
-- Survey of AI providers (ChatGPT, Claude, Gemini, Perplexity)
-- Privacy/legal compliance (HIPAA, attorney-client privilege, FERPA)
 - Thinking mode vs regular mode
-- **Critical:** How AI hallucinates & fact-checking
+- Live demo of advanced prompting
 
 **Outcome:** You can write clear prompts with context, iterate, and improve answers reliably
 
@@ -75,8 +72,10 @@ By the end of this program, participants will be able to:
 *Coming soon*
 
 - Different consumer AI tools/models
+- Survey of AI providers (Copilot, ChatGPT, Claude, Gemini, Perplexity)
 - When to use what (NotebookLM, Copilot, ChatGPT, Gemini, Claude CLI)
 - AI Risks: data usage, tool risks, limitations and bias
+- **Critical:** How AI hallucinates & fact-checking
 
 **Outcome:** You can pick the right AI tool for a task and understand tradeoffs, limitations, and risks
 
@@ -88,7 +87,7 @@ By the end of this program, participants will be able to:
 *Coming soon*
 
 - Examples of AI automation in daily life
-- Introduction to MCP
+- Introduction to MCP and tool calling
 - Creating your own automation
 
 **Outcome:** You can design and run simple AI-assisted workflows that save you time
