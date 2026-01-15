@@ -44,7 +44,7 @@ By the end of this program, participants will be able to:
 **Week 1 • The Foundation**
 
 - Who AI is for?
-- Undertanding the transformation shift and how that affects you
+- Undertanding the AI transformation shift and how that affects you
 - Different levels of AI enlightenment
 - Using AI for learning, research, planning, brainstorming and self-introspection
  
