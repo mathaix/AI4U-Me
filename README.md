@@ -43,29 +43,29 @@ By the end of this program, participants will be able to:
 ### 📘 [Class 0: Level 0 — Understanding](class-0-level-0.md)
 **Week 1 • The Foundation**
 
+- Different levels of AI enlightenment
+- Using AI for learning, research, planning, brainstorming and self-introspection
 - Who AI is for (poll + belief: AI is for everyone)
 - What AI can/can't do today
 - Safety basics (what never to share)
 - Free vs paid side-by-side comparison
-- Live demo: research, planning, organizing info
-- Guided first prompts and open practice
 
-**Outcome:** Holds a basic, safe AI conversation on a real task
+**Outcome:** You know what AI can (and cannot) do for you today and can hold a basic, safe AI conversation
 
 ---
 
 ### 📗 [Class 1: Level 1 — Smart Usage](class-1-level-1.md)
 **Week 2 • Mastering Prompts**
 
-- Context windows, specificity, iteration
-- Prompt examples and live/interacting demo
+- Theory: Context and context window
+- Prompt examples
+- Live demo of advanced prompting
 - Survey of AI providers (ChatGPT, Claude, Gemini, Perplexity)
 - Privacy/legal compliance (HIPAA, attorney-client privilege, FERPA)
 - Thinking mode vs regular mode
 - **Critical:** How AI hallucinates & fact-checking
-- Practice with real scenarios using a simple prompt rubric
 
-**Outcome:** Writes clear prompts with context and reliably improves answers
+**Outcome:** You can write clear prompts with context, iterate, and improve answers reliably
 
 ---
 
@@ -74,11 +74,11 @@ By the end of this program, participants will be able to:
 
 *Coming soon*
 
-- Which tool when: NotebookLM, Copilot, ChatGPT, Gemini, Claude CLI, Perplexity
-- Risks and limitations: data use, bias, provider differences
-- Free vs paid tradeoffs in depth
+- Different consumer AI tools/models
+- When to use what (NotebookLM, Copilot, ChatGPT, Gemini, Claude CLI)
+- AI Risks: data usage, tool risks, limitations and bias
 
-**Outcome:** Picks the right AI tool and understands tradeoffs and risks
+**Outcome:** You can pick the right AI tool for a task and understand tradeoffs, limitations, and risks
 
 ---
 
@@ -87,12 +87,11 @@ By the end of this program, participants will be able to:
 
 *Coming soon*
 
-- Examples of AI-powered life and work automations
-- Introduction to MCP (Model Context Protocol)
-- Build a simple AI-assisted workflow
-- Troubleshoot and refine automations
+- Examples of AI automation in daily life
+- Introduction to MCP
+- Creating your own automation
 
-**Outcome:** Designs and runs simple AI-assisted workflows that save time
+**Outcome:** You can design and run simple AI-assisted workflows that save you time
 
 ---
 
@@ -101,12 +100,10 @@ By the end of this program, participants will be able to:
 
 *Coming soon*
 
-- "Vibe coding" with no/low code: you describe, AI builds
-- Plan → generate → test a small project
-- Build a document, script, or mini app
-- Present your creation
+- "Vibe coding" - no coding experience needed
+- You describe, AI builds
 
-**Outcome:** Ships a small AI-built project from their own description
+**Outcome:** You can ship a small AI-built project (no-code or low-code) from your own description
 
 ---
 
