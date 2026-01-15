@@ -18,7 +18,7 @@
 - Doctors? ✋
 - Plumbers? ✋
 - Students? ✋
-- Stay-at-home parents? ✋
+- Parents? ✋
 - Small business owners? ✋
 - Teachers? ✋
 - Retirees? ✋
