@@ -30,7 +30,7 @@ This curriculum focuses on **practical skills over theory**. You don't need to u
 
 By the end of this program, participants will be able to:
 
-- ✅ Confidently use AI for everyday work and life tasks with safety guardrails
+- ✅ ~~Use~~ Collaborate with AI for everyday work and life tasks and use AI with disernment and judgment
 - ✅ Write clear, iterative prompts that improve results across tools
 - ✅ Choose the right AI tool for a job and understand tradeoffs/risks
 - ✅ Design simple automations that save time
@@ -46,7 +46,7 @@ By the end of this program, participants will be able to:
 - Who AI is for?
 - Undertanding the AI transformation shift and how that affects you
 - Different levels of AI enlightenment
-- Using AI for learning, research, planning, brainstorming and self-introspection
+- AI as a thinking parnter. Using AI for learning, research, planning, brainstorming and self-introspection
  
 **Outcome:** You know what AI can (and cannot) do for you today and can hold a basic, safe AI conversation
 
